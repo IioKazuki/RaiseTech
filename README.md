@@ -1,2 +1,0 @@
-# RaiseTech
-AWS Full Course
